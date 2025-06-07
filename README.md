@@ -1,6 +1,6 @@
 👋 Hi, Welcome to @LavakumarReddyAraveeti's GitHub Profile
   
-Senior Java Developer | Freelance Devloper
+Senior Java Developer | Freelance Developer
 
 Lavakumar Reddy is a passionate Senior Java Developer with over 8+ years of experience building scalable, secure, and high-performance applications. He specializes in backend development with Java and Spring Boot frameworks.
 
