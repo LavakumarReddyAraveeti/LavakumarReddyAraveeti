@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @LavakumarReddyAraveeti
-- 👀 I’m interested in automation, java
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on web development
+👋 Hi, Welcome to @LavakumarReddyAraveeti's GitHub Profile
+  
+Senior Java Developer | Freelance Devloper
 
+Lavakumar Reddy is a passionate Senior Java Developer with over 8+ years of experience building scalable, secure, and high-performance applications. He specializes in backend development with Java and Spring Boot frameworks.
 
-<!---
-LavakumarReddyAraveeti/LavakumarReddyAraveeti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+He has delivered critical enterprise systems across banking, and insurance domains using microservices, Kafka, and modern DevOps tools. Known for his strong design skills, clean code practices, and cloud-native application development.
